@@ -3,7 +3,7 @@ def reverse_each_word(string)
   string = "Hello there, and how are you?"
   string.split (" ")
   new_array.collect do |string|
-  string.reverse
+   puts {stringstring.reverse
   end
 end
     
